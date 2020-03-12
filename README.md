@@ -2,3 +2,18 @@
 
 ### Projeto destinado ao Modulo 05 do Curso GoStack da Rocketseat
 
+# Pacotes e dependencias instaladas:
+
+$ yarn add eslint -D
+
+$ eslint --init
+- To check syntax, find problems..
+- JavaScript modules
+- React
+- No TypeScript
+- Browser
+- Popular Style Guide
+- Airbnb Style Guide
+- JavaScript
+
+$ yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
