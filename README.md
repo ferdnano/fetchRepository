@@ -21,3 +21,5 @@ $ yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -
 $ yarn add react-router-dom
 
 $ yarn add styled-components
+
+$ yarn add react-icons
